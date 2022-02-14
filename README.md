@@ -1,5 +1,7 @@
 # shopping_cart
 
+Demo: https://jiangshuuu.github.io/wasaTeam/#/main/shoppingCart/address
+
 ## Project setup
 ```
 npm install
